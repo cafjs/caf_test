@@ -8,3 +8,5 @@ jobs:
         uses: actions/checkout@v2
       - name: say hello
         run: echo "hello"
+      - name: break the build
+        run: exit 1
