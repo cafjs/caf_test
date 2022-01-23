@@ -1,3 +1,3 @@
 Empty repository to test github webhooks
 
-version 3
+version 4
